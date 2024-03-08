@@ -1,0 +1,1 @@
+ C:\\Users\\khofi\\StudioProjects\\kartunama\\.dart_tool\\flutter_build\\4ca170a4a36cdf5c653299670a9efa81\\native_assets.yaml: 
